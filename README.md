@@ -10,7 +10,7 @@ Download this folder from google drive. Place the folder in the same folder as t
 
 
 # Run The Program
-Open the "app.py" file in your IDE and copy the local host link that is outputted in the terminal.
+Open the "app.py" file in your IDE. Copy the local host link that is outputted in the terminal into your web browser.
 
 
 # Upload A Document
