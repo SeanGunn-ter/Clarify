@@ -7,7 +7,7 @@ Installs Chrome Native Messaging Host for SimplifyPSU
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force
 
 # Configuration
-$HOST_NAME = "com.simplify.server_launcher"
+$HOST_NAME = "com.clarify.server_launcher"
 $LAUNCHER_SCRIPT = "launch-server.py"
 
 # Path setup
@@ -26,7 +26,7 @@ function Get-ExtensionId {
     Write-Host ""
     Write-Host "Please open $extensionUrl in Chrome and:" -ForegroundColor Yellow
     Write-Host "1. Enable 'Developer mode'" -ForegroundColor Yellow
-    Write-Host "2. Find your 'Simplify' extension" -ForegroundColor Yellow
+    Write-Host "2. Find your 'Clarify' extension" -ForegroundColor Yellow
     Write-Host "3. Note the ID shown below the extension name" -ForegroundColor Yellow
     
     $extensionId = Read-Host "`nEnter the extension ID (32 lowercase letters)"
