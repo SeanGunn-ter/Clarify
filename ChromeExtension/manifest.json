@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Simplify",
+    "version": "1.0",
+    "description": "Process PDF terms of service documents",
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "nativeMessaging",
+        "activeTab"
+    ],
+    "host_permissions": [
+        "http://localhost:5000/*"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    }
+}
