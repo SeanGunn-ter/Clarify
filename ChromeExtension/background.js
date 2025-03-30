@@ -16,7 +16,7 @@ chrome.action.onClicked.addListener(async () => {
     
     // 2. Start via native messaging
     chrome.runtime.sendNativeMessage(
-        'com.simplify.launch-server',
+        'com.clarify.launch-server',
         { command: 'start_server' },
         (response) => {
             if (chrome.runtime.lastError) {
