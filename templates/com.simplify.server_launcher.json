@@ -1,9 +1,0 @@
-{
-  "name": "com.simplify.server_launcher",
-  "description": "SimplifyPSU Server Launcher",
-  "path": "C:\\Users\\smgun\\Downloads\\SimplifyPSU\\launch-server.py",
-  "type": "stdio",
-  "allowed_origins": [
-    "chrome-extension://idfakaiacmhpemdmlbegdjpkkaagkehk/"
-  ]
-}

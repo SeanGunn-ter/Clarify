@@ -1,0 +1,9 @@
+{
+  "name": "com.clarify.server_launcher",
+  "description": "Clarify Server Launcher",
+  "path": "file path",              // example: "C:\\Users\\name\\Downloads\\Clarify\\launch-server.py" //
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://idfakaiacmhpemdmlbegdjpkkaagkehk/"
+  ]
+}
