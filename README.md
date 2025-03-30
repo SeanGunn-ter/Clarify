@@ -20,7 +20,7 @@ Download this folder from google drive. Place the folder in the same folder as t
   
   Click "Load unpacked" and upload the ChromeExtension folder provided.
   
-  In Windows PowerShell provide the ID requested, now the extension is running.
+  In Windows PowerShell provide the ID from your new extension, now the extension is running.
   
 
 # Upload A Document
