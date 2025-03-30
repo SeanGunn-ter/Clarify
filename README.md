@@ -9,6 +9,7 @@ https://drive.google.com/drive/folders/19BEJGHBNY7pHGea53tvxPU3ZwnDhVAZB?usp=dri
 Download this folder from google drive. Place the folder in the same folder as the rest of this repository.
 
 # Getting Started
+  Download Python
   # Option 1-Run The Program
   Open the "app.py" file in your IDE. Copy the local host link that is outputted in the terminal into your web browser.
   # Option 2-Use a chrome extension (windows only)
