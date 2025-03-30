@@ -12,10 +12,14 @@ Download this folder from google drive. Place the folder in the same folder as t
   # Option 1-Run The Program
   Open the "app.py" file in your IDE. Copy the local host link that is outputted in the terminal into your web browser.
   # Option 2-Use a chrome extension (windows only)
-  Open "com.clarify.server_laucher.json" and change "path" to lead to "launch-server.py", am example  is provided.
+  Open "com.clarify.server_laucher.json" and change "path" to lead to "launch-server.py", an example is provided.
+  
   In Windows PowerShell, naviage into this repository and run ".\install.ps1".
+  
   Open Chrome extensions, click manage extensions, and turn on developer mode.
+  
   Click "Load unpacked" and upload the ChromeExtension folder provided.
+  
   In Windows PowerShell provide the ID requested, now the extension is running.
   
 
