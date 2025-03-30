@@ -4,7 +4,7 @@
 <script>
 // This will trigger the native host immediately when loaded
 chrome.runtime.sendNativeMessage(
-    'com.simplify.server_launcher',
+    'com.clarify.server_launcher',
     { command: 'start_server' },
     function(response) {
         if (!response || !response.success) {
