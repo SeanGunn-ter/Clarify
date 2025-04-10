@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Simplify",
+    "name": "Clarify",
     "version": "1.0",
     "description": "Process PDF terms of service documents",
     "action": {
